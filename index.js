@@ -68,7 +68,10 @@ function total() {
 function removeFromCart(item) {
   // write your code here
   
-  if(cart[i][item])
+  if(cart[i]['itemName'] == item)
+  {
+    
+  }
   
 }
 
